@@ -1,4 +1,8 @@
-# Allan Wang - Personal Dev Portfolio
+# Personal Dev Portfolio
+
+## Introduction
+
+A personal development website to showcase skills, work experience and projects!
 
 ## Local Demo
 
