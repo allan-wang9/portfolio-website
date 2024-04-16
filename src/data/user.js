@@ -30,18 +30,18 @@ const INFO = {
         {
             title: "Nokia",
             role: "Software Developer Intern",
-            duration: "Jan '23 - Apr '23, Sept '23 - Dec '23",
+            duration: "Jan - Apr, Sept - Dec (2023)",
             description:
                 "SaaS 5G security orchestration solution used by telecom service providers.",
             logo: "../company/nokia1.png",
-            linkText: "NCYD @ Nokia",
+            linkText: "NetGuard Cybersecurity Dome @ Nokia",
             link: "https://www.nokia.com/networks/security-portfolio/netguard/cybersecurity-dome/",
         },
 
         {
             title: "Nokia",
             role: "Software Engineer Intern",
-            duration: "May '23 - Aug '23",
+            duration: "May - Aug (2023)",
             description:
                 "SaaS eSIM/iSIM provisioning service enabling E2E profile lifecycle management.",
             logo: "../company/nokia2.jpg",
@@ -52,9 +52,9 @@ const INFO = {
         {
             title: "Telesat",
             role: "Software Developer Intern",
-            duration: "May '22 - Dec '22",
+            duration: "May - Dec (2023)",
             description:
-                "Business applications powering Lightspeed LEO Network and operational services.",
+                "Business applications powering Lightspeed LEO Network and its core operational services.",
             logo: "../company/telesat.png",
             linkText: "Lightspeed LEO @ Telesat",
             link: "https://www.telesat.com/leo-satellites/",
