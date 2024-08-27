@@ -17,16 +17,27 @@ const INFO = {
         title: "Hi, I'm Allan!",
         description: [
             "Welcome to my portfolio site. I'm happy to see you here! ",
-            "I am an aspiring software developer with prior experiences in frontend, backend and automation engineering. " +
-            "I have accumulated 1.5 years of internship work experience at Nokia and Telesat and 1 year of research and freelance development.",
-            "Prior to this, I graduated from Carleton University in 2024 with a Bachelors of Computer Science (GPA: 3.9/4, J. Lourne Gray Scholarship recipient). " +
+            " I am a Software Engineer with prior experiences in full stack software development. " +
+            "I have accumulated over 2 years of professional work experience and I am currently a dev at Trend Micro, working on innovative cybersecurity applications.",
+            "Prior to this, I graduated from Carleton University in 2023 with a Bachelors of Computer Science. " +
             "Through my academic journey, I have developed skills in web development, object-oriented software engineering and distributed systems. Learn more about my previous academic and professional work in the Experience section.",
-            "Outside of coding, my hobbies are basketball, the Premier League (COYS), and stocks/derivatives trading.",
+            "Outside of coding, my hobbies are basketball, soccer (COYS), and stocks/derivatives trading.",
             "Feel free to view my resume and connect with me through my socials. Thanks for stopping by!"
         ]
     },
 
     enterprise: [
+        {
+            title: "Trend Micro",
+            role: "Software Developer",
+            duration: "May '24 - Present",
+            description:
+                "Industry leading unified cybersecurity and proactive risk management application.",
+            logo: "../company/trend.jpg",
+            linkText: "Trend Vision One @ Trend Micro",
+            link: "https://www.trendmicro.com/en_ca/business/products/one-platform.html",
+        },
+
         {
             title: "Nokia",
             role: "Software Developer Intern",
@@ -63,13 +74,26 @@ const INFO = {
 
     resume: [
         {
+            title: "Trend Micro",
+            role: "Software Developer",
+            duration: "May 2024 - Present",
+            description:
+                "Working on Trend Micro's all-in-one cybersecurity solution to detect and respond to any attack surface vulnerability. \n" +
+                "Full stack development using Go, Node.js, React and a suite of cloud services (AKS, Azure Service Bus).\n",
+            skills: "Skills: React, TypeScript, Go, Node.js, MongoDB, Docker, Kubernetes",
+            logo: "../company/trend.jpg",
+            linkText: "Check out Trend Vision One @ Trend Micro!",
+            link: "https://www.trendmicro.com/en_ca/business/products/one-platform.html",
+        },
+
+        {
             title: "Nokia",
             role: "Software Developer Intern",
             duration: "Sept 2023 - Dec 2023",
             description:
                 "Built frontend components and features using React, TypeScript and Apollo Client to enhance user experience and interactivity.\n" +
                 "Improved backend services by designing object-oriented TypeScript classes to leverage Microsoft Azure APIs (Sentinels, Log Analytics) to handle data fetching and storage with GraphQL and MongoDB.\n" +
-                "Developed 50+ fully automated frontend and backend integration tests using Python and Robot Framework, reducing pipeline times on integration test jobs by 8%.",
+                "Developed 50+ fully automated frontend and backend integration tests using Python and Robot Framework, reducing pipeline times on integration test jobs by 8%.\n",
             skills: "Skills: React, TypeScript, GraphQL, MongoDB, Python, Robot Framework, Docker, Kubernetes",
             logo: "../company/nokia1.png",
             linkText: "Check out NetGuard CyberSecurity Dome @ Nokia!",
@@ -84,7 +108,7 @@ const INFO = {
                 "Developed a functional and modular Typescript library with Jest unit testing and documentation to perform telecom encoding" +
                 "and decoding services in accordance to universal mobile telecom standards.\n" +
                 "Designed functional components with Angular and TypeScript to support rich user features such as inputs and reactive forms.\n" +
-                "Increased security protocols by strengthening Nginx configurations and enabling HSTS to limit application vulnerabilities.",
+                "Increased security protocols by strengthening Nginx configurations and enabling HSTS to limit application vulnerabilities.\n",
             skills: "Skills: Angular, TypeScript, Java, Spring Boot, PostgreSQL",
             logo: "../company/nokia2.jpg",
             linkText: "Check out iSIM Secure Connect @ Nokia!",
@@ -99,7 +123,7 @@ const INFO = {
                 "Implemented full stack solutions using React, TypeScript and GraphQL to support the continuous development of Netguard" +
                 "Cybersecurity Dome, Nokia’s first SaaS based cybersecurity application.\n" +
                 "Refactored and resolved 40 code smells and critical vulnerabilities, leading to increased performance and security enhancements.\n" +
-                "Streamlined an internal automation process by designing test suites in Python and Robot Framework to reduce manual testing.",
+                "Streamlined an internal automation process by designing test suites in Python and Robot Framework to reduce manual testing.\n",
             skills: "Skills: React, TypeScript, GraphQL, Microsoft Azure, Docker, Kubernetes",
             logo: "../company/nokia1.png",
             linkText: "Check out NetGuard CyberSecurity Dome @ Nokia!",
@@ -116,7 +140,7 @@ const INFO = {
                 "Developed an emailing service using C# and SQL to alert users of exceptions between internal applications and SQL Server " +
                 "databases, preventing integration conflicts.\n" +
                 "Maintained SQL Server databases, wrote SQL stored procedures, and created SSRS reports to update business requests and" +
-                "manage the active server environments through monitoring, configurations and backups.",
+                "manage the active server environments through monitoring, configurations and backups.\n",
             skills: "Skills: JavaScript, Node.js, SQL, Microsoft SQL Server, C#",
             logo: "../company/telesat.png",
             linkText: "Check out Lightspeed LEO @ Telesat!",

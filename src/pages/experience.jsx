@@ -47,7 +47,7 @@ const Experience = () => {
 
                         <div className="subtitle experience-subtitle">
                             Over the past few years, I have worked on highly innovative teams
-                            that developed real world solutions through software engineering. I
+                            that developed real world solutions. I
                             have experience in full stack software development, automation
                             engineering and microservices architecture. In my free time, I strive to learn
                             new skills through my personal projects to stay adaptive to

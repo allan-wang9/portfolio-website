@@ -52,7 +52,7 @@ const Connect = () => {
                                 {INFO.main.email}
                             </a>
                             {""}.
-                            I'm looking forward to our new conversations. Have a great day!
+                            I'm looking forward to our new conversations!
                         </div>
                     </div>
 
