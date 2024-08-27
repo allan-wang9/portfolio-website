@@ -10,7 +10,8 @@ const INFO = {
         linkedin: "https://www.linkedin.com/in/allanwang-cu/",
         email: "https://www.microsoft.com/en-us/microsoft-365/outlook/log-in",
         github: "https://github.com/allan-wang9",
-        resume: "../resume/AllanWang.pdf"
+        resume: "../resume/AllanWang.pdf",
+        updating: "../resume/ResumeUpdating.pdf"
     },
 
     homepage: {

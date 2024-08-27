@@ -55,7 +55,7 @@ const Socials = () => {
             </div>
 
             <div className="social">
-                <a href={INFO.socials.resume} target="_blank" rel="noreferrer">
+                <a href={INFO.socials.updating} target="_blank" rel="noreferrer">
                     <div className="social-icon">
                         <FontAwesomeIcon
                             icon={faFile}
