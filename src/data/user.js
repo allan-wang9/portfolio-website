@@ -41,7 +41,7 @@ const INFO = {
 
         {
             title: "Nokia",
-            role: "Software Developer Intern",
+            role: "Software Engineer Intern",
             duration: "Jan - Apr, Sept - Dec (2023)",
             description:
                 "SaaS 5G security orchestration solution used by telecom service providers.",
@@ -89,7 +89,7 @@ const INFO = {
 
         {
             title: "Nokia",
-            role: "Software Developer Intern",
+            role: "Software Engineer Intern",
             duration: "Sept 2023 - Dec 2023",
             description:
                 "Built frontend components and features using React, TypeScript and Apollo Client to enhance user experience and interactivity.\n" +
@@ -102,7 +102,7 @@ const INFO = {
         },
 
         {
-            title: "Nokia",
+            title: "Motive",
             role: "Software Engineer Intern",
             duration: "May 2023 - Aug 2023",
             description:
@@ -118,7 +118,7 @@ const INFO = {
 
         {
             title: "Nokia",
-            role: "Software Developer Intern",
+            role: "Software Engineer Intern",
             duration: "Jan 2023 - Apr 2023",
             description:
                 "Implemented full stack solutions using React, TypeScript and GraphQL to support the continuous development of Netguard" +
